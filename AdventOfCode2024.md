@@ -4,11 +4,11 @@
 
 # Advent of Cyber 2024
 
-- Welcome to the Advent of Cyber 2024 journey! In this file, I'll be sharing my experiences and write-ups for each day of this year's event, covering a wide range of cybersecurity topics. Join me as we dive into the exciting world of red team, blue team, and purple team activities.
+- Welcome to the Advent of Cyber 2024 journey! In this file, I'll be sharing my experiences and write-ups on youtube provided by TryHackMe for each day of this year's event, covering a wide range of cybersecurity topics.
 
 ## Event Overview
 
-- I'll be sharing the days of this year from Day 1 to Day 24 with write-ups and subjects covered. Here's a detailed table of what to expect:
+- I'll be sharing the days of this year from Day 1 to Day 24 with write-ups and subjects covered.
 
 | Day | Title | R : Red Team B: Blue Team, P: Purple Team | Notes/Subject | Writeup |
 | --- | --- | --- | --- | --- |
@@ -45,8 +45,7 @@
 <img src="/Assets/Extra-Banner.png">
 </div>
 
-
-I also documented if they're free or premium labs. Here are the follow-up room recommendations for each day that the TryHackMe platform recommended. These are also covered here and linked for your choosing to take them and embark on them as well:
+- I also documented if they're free or premium labs. Here are the follow-up room recommendations for each day that the TryHackMe platform recommended. These are also covered here and linked for your choosing to take them and embark on them as well:
 
 | Lab Name | Time to Complete | Free & Premium | Access the lab | Writeup |
 | --- | --- | --- | --- | --- |
