@@ -4,7 +4,7 @@
 
 # Advent of Cyber 2024
 
-- Welcome to the Advent of Cyber 2024 journey! In this file, I'll be sharing my experiences and write-ups on youtube provided by TryHackMe for each day of this year's event, covering a wide range of cybersecurity topics.
+- Welcome to the Advent of Cyber 2024 journey! In this file, I'll be sharing my experiences and write-ups on youtube provided by TryHackMe for each day of this year's event, covering a wide range of cybersecurity topics, first things first to access the event: [Advent-Of-Cyber2024](https://tryhackme.com/r/room/adventofcyber2024)
 
 ## Event Overview
 
