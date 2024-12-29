@@ -1,16 +1,14 @@
-Here's the updated markdown content for your `Advent-of-Cyber-2024` file with the requested changes:
-
----
-
-![image](https://mistralaichatupprodswe.blob.core.windows.net/chat-images/assistant/ca/60/44/ca60441d-3999-46f1-82fe-1767ffb90e00/4a45ebb5-6435-415b-926d-602d9bbf520a/d65a84df-ceaf-4602-abad-9399b843ad94?sv=2024-11-04&st=2024-12-29T22%3A51%3A29Z&se=2024-12-29T23%3A51%3A29Z&sr=b&sp=rade&sig=AAIDHnw0Xhkx%2BLfSHh86oBpVe7QvRw8JY9PpV9iyZRU%3D)
+<div style="center">
+<img src="/Assets/AdventOfCode2024.png">
+</div>
 
 # Advent of Cyber 2024
 
-Welcome to the Advent of Cyber 2024 journey! In this repository, I'll be sharing my experiences and write-ups for each day of this year's event, covering a wide range of cybersecurity topics. Join me as we dive into the exciting world of red team, blue team, and purple team activities.
+- Welcome to the Advent of Cyber 2024 journey! In this file, I'll be sharing my experiences and write-ups for each day of this year's event, covering a wide range of cybersecurity topics. Join me as we dive into the exciting world of red team, blue team, and purple team activities.
 
 ## Event Overview
 
-I'll be sharing the days of this year from Day 1 to Day 24 with write-ups and subjects covered. Here's a detailed table of what to expect:
+- I'll be sharing the days of this year from Day 1 to Day 24 with write-ups and subjects covered. Here's a detailed table of what to expect:
 
 | Day | Title | R : Red Team B: Blue Team, P: Purple Team | Notes/Subject | Writeup |
 | --- | --- | --- | --- | --- |
@@ -41,9 +39,12 @@ I'll be sharing the days of this year from Day 1 to Day 24 with write-ups and su
 
 ---
 
-**EXTRA**
+# RECOMMENDED EXTRA LABS BY TRY HACK ME
 
----
+<div style="center">
+<img src="/Assets/Extra-Banner.png">
+</div>
+
 
 I also documented if they're free or premium labs. Here are the follow-up room recommendations for each day that the TryHackMe platform recommended. These are also covered here and linked for your choosing to take them and embark on them as well:
 
