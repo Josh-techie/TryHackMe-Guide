@@ -5,14 +5,14 @@
 <div style="center">
 <p align="center">
 
-[![Maintained - Yes](https://img.shields.io/static/v1?label=Maintained&message=Yes&color=2ea44f&style=for-the-badge)](https://pop-quiz-five.vercel.app/)
+[![Maintained - Yes](https://img.shields.io/static/v1?label=Maintained&message=Yes&color=2ea44f&style=for-the-badge)](#)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![Open Source - Yes](https://img.shields.io/static/v1?label=Open+Source&message=Yes&color=2ea44f&style=for-the-badge)](https://pop-quiz-five.vercel.app/)
+[![Open Source - Yes](https://img.shields.io/static/v1?label=Open+Source&message=Yes&color=2ea44f&style=for-the-badge)](#)
 
 </p>
 </div>
 
-# Introduction
+## Introduction
 
 - Hey there, fellow hackers and cybersecurity enthusiasts! 🚀
 Remember that moment when you first discovered TryHackMe? That rush of excitement when you pwned your first box, or that incredible feeling when a complex puzzle finally clicked? That's exactly why I created Try Hack Guide!
@@ -22,18 +22,18 @@ Remember that moment when you first discovered TryHackMe? That rush of excitemen
 
 ---
 
-# LEARNING PATHS
+## LEARNING PATHS
 
 ---
 
 | Path Name                  | Difficulty | Number of Rooms | Premium Rooms | Time to Complete | Main Topics                           | Details                                      |
 |----------------------------|------------|-----------------|---------------|------------------|---------------------------------------|----------------------------------------------|
-| Jr Penetration Tester      | Medium     | X            | 7       | ~40 hours        | Network Security, Web Apps, Buffer Overflow | [Jr Penetration Tester](#) |
+| Jr Penetration Tester      | Medium     | X            | 7       | ~40 hours        | Network Security, Web Apps, Buffer Overflow | [Jr Penetration Tester](./Jr_Penetration_Tester.md)) |
 
 
 --- 
 
-# ADVENT OF CYBER
+## ADVENT OF CYBER
 
 ---
 
@@ -41,7 +41,41 @@ Join me on the festive hacking journey through TryHackMe's annual Advent of Cybe
 
 - [Advent Of Cyber 2024](./AdventOfCode2024.md)
 
+---
 
+## � How to Contribute
+
+Got a **writeup** or a **room review** to share? Awesome! Here's how you can help:  
+
+1. Fork this repo.  
+2. Add your writeup or update the room list.  
+3. Submit a **Pull Request** with your changes.  
+
+Let's build a **community-driven resource** together! 🚀  
+
+---
+
+## 📜 License
+
+### 🎯 Do What the Fun You Want To 🎯  
+
+1. **You can:**  
+   - Use, share, or modify this content.  
+   - Contribute your own writeups or updates.  
+
+2. **You can't:**  
+   - Be a jerk. Keep it friendly and helpful!  
+
+3. **You must:**  
+   - Have fun and help others learn!  
+
+**TL;DR:** Do what you want, just don't be a jerk and keep the learning spirit alive! 🌟  
+
+---
+
+Made with ❤️, ☕, and a lot of hacking by [Your Name].  
+
+Let's hack the planet! 🌍💻  
 
 ---
 
