@@ -22,9 +22,16 @@ Remember that moment when you first discovered TryHackMe? That rush of excitemen
 
 ---
 
-## LEARNING PATHS
+## 📚 What's Inside?
+
+- **📝 Writeups:** Step-by-step guides for TryHackMe rooms I've completed.  
+- **🔓 Free Rooms:** A list of rooms that are currently free to access.  
+- **💸 Paid Rooms:** A list of rooms that require a subscription.  
+- **🎨 Community Contributions:** Your writeups and insights are welcome here!  
 
 ---
+
+## LEARNING PATHS
 
 | Path Name                  | Difficulty | Number of Rooms | Premium Rooms | Time to Complete | Main Topics                           | Details                                      |
 |----------------------------|------------|-----------------|---------------|------------------|---------------------------------------|----------------------------------------------|
@@ -35,15 +42,13 @@ Remember that moment when you first discovered TryHackMe? That rush of excitemen
 
 ## ADVENT OF CYBER
 
----
-
 Join me on the festive hacking journey through TryHackMe's annual Advent of Cyber events! Each year brings 25 days of exciting security challenges and learning opportunities. Check out my detailed writeups and solutions:
 
 - [Advent Of Cyber 2024](./AdventOfCode2024.md)
 
 ---
 
-## � How to Contribute
+##  How to Contribute
 
 Got a **writeup** or a **room review** to share? Awesome! Here's how you can help:  
 
@@ -69,13 +74,16 @@ Let's build a **community-driven resource** together! 🚀
 3. **You must:**  
    - Have fun and help others learn!  
 
-**TL;DR:** Do what you want, just don't be a jerk and keep the learning spirit alive! 🌟  
+`**TL;DR:** Do what you want, just don't be a jerk and keep the learning spirit alive! 🌟 `
 
 ---
 
-Made with ❤️, ☕, and a lot of hacking by [Your Name].  
+<div style="center">
+
+Made with ❤️, ☕, and a lot of hacking by `Youssef`.  
 
 Let's hack the planet! 🌍💻  
+</div>
 
 ---
 
