@@ -35,7 +35,7 @@ Remember that moment when you first discovered TryHackMe? That rush of excitemen
 
 | Path Name                  | Difficulty | Number of Rooms | Premium Rooms | Time to Complete | Main Topics                           | Details                                      |
 |----------------------------|------------|-----------------|---------------|------------------|---------------------------------------|----------------------------------------------|
-| Jr Penetration Tester      | Medium     | X            | 7       | ~40 hours        | Network Security, Web Apps, Buffer Overflow | [Jr Penetration Tester](./Jr_Penetration_Tester.md)) |
+| Jr Penetration Tester      | Medium     | 37            | 27       | ~40 hours        | Network Security, Web Apps, Buffer Overflow | [Jr Penetration Tester](./Jr_Penetration_Tester.md) |
 
 
 --- 
