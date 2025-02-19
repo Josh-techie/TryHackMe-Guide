@@ -6,7 +6,7 @@
 
 # Jr Penetration Tester
 
-| Lab Name                      | Time to Complete | Free & Premium | Access the lab                                                       | Writeup            |
+| Lab Name                      | Time to Complete(min) | Free & Premium | Access the lab                                                       | Writeup            |
 | ----------------------------- | ---------------- | -------------- | ------------------------------------------------------------------- | ------------------ |
 | Offensive Security Intro      | 15               | F            | [Offensive Security Intro](https://tryhackme.com/r/room/offensivesecurityintro)  | [Medium](https://medium.com/@Cyb3r_Si3rr4/tryhackme-room-01-intro-to-offensive-security-1ce93f7d70c3) |
 | Defensive Security Intro      | 25               | F            | [Defensive Security Intro](https://tryhackme.com/r/room/defensivesecurityintro)  | [Medium](https://medium.com/@Aircon/intro-to-defensive-security-tryhackme-cb9a580bbbf8) |
@@ -46,6 +46,30 @@
 | What the Shell?              | 0                | P            | [What the Shell?](https://tryhackme.com/r/room/introtoshells)                | [Medium](https://medium.com/@zycc2727/tryhackme-what-the-shell-61b54eda78e6) |
 | Linux Privilege Escalation    | 50               | F            | [Linux Privilege Escalation](https://tryhackme.com/r/room/linprivesc)                 | [Medium](https://medium.com/@just_felix/linux-privilege-escalation-tryhackme-writeup-625d0cda5583) |
 | Windows Privilege Escalation  | 60               | P            | [Windows Privilege Escalation](https://tryhackme.com/r/room/windowsprivesc20)            | [Medium](https://medium.com/@jamesjarviscyber/windows-privilege-escalation-tryhackme-96e9f8eaeb27) |
+
+---
+
+## Pace Yourself, Padawan! 🐢💨
+
+→ Don't feel pressured to finish the rooms within the estimated time!  Those time estimates are just guidelines, kinda like a speed limit on the highway – some folks zoom past, others cruise. It totally depends on your existing knowledge. So, if a room takes you longer than expected (hey, it happens to the best of us!), don't sweat it!  I've been there too, wrestling with rooms that took *way* longer than I anticipated.  The important thing is you're learning and conquering those challenges!
+
+## Deja Vu? Skip It! 🔄
+
+→ You might stumble upon some familiar labs or rooms – like a glitch in the Matrix! If you've already conquered a room in another path, feel free to skip the repeat. No need to fight the same boss twice unless you *really* want to hone your skills. 😉
+
+---
+
+## Extra Rooms 
+
+| Lab Name                    | Time to Complete | Free & Premium | Access the lab                                                                               | Writeup                                                                                                       |
+| --------------------------- | ---------------- | -------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| Vulnerabilities 101         | 20 min           | F            | [Vulnerabilities 101](https://tryhackme.com/r/room/vulnerabilities101)                          | N/A                                                                                                           |
+| Vulnerability Research      | -                |                | [Vulnerability Research](https://tryhackme.com/r/module/vulnerability-research)                   | N/A                                                                                                           |
+| Nessus                      | 0 min            | F            | [Nessus](https://tryhackme.com/r/room/rpnessusredux)                                       | N/A                                                                                                           |
+| OWASP Top 10                | 120 min          | F            | [OWASP Top 10](https://tryhackme.com/r/room/owasptop10)                                    | N/A                                                                                                           |
+| Upload Vulnerabilities      | 0 min            | P            | [Upload Vulnerabilities](https://tryhackme.com/r/room/uploadvulns)                              | N/A                                                                                                           |
+| Firewalls                   | 180 min          | P            | [Firewalls](https://tryhackme.com/r/room/redteamfirewalls)                                   | [YouTube](https://youtu.be/5BaGctTiF-E?si=2qzVPNEPP0SHQyEk)                                                  |
+| Abusing Windows Internals | 60               | P            | [Abusing Windows Internals](https://tryhackme.com/r/room/abusingwindowsinternals)                              | N/A                                                                                                           |
 
 
 ---
