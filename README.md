@@ -1,5 +1,5 @@
 <div style="center">
-<img src="/Assets/TryHackMe.png">
+<img src="/Assets/Banner-Readme.png">
 </div>
 
 <div style="center">
