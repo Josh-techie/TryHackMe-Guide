@@ -24,7 +24,7 @@ Hey hackers & cybersecurity enthusiasts! 👋 I'm Youssef, a college student div
 
 ## 🚦 Learning Paths
 
-| Path Name               | Difficulty | # of Rooms | Premium | Est. Time | Details                             |
+| Path Name               | Difficulty | Total Number of Rooms | Premium Rooms| Est. Time | Details                             |
 | ----------------------- | ---------- | -------- | ------- | --------- | ----------------------------------- |
 | Jr Penetration Tester | Medium     | 37       | 27      | ~40 hours | [Jr Penetration Tester](./Jr_Penetration_Tester.md) |
 
